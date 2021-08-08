@@ -17,7 +17,7 @@
 [![Walks](https://raw.githubusercontent.com/OrsoEric/Unit-Zero/main/Hardware%20-%20LEGO/2021-05-21%20Unit%20Zero%20Walks.JPG)](https://youtu.be/v_5exAytGI8)  
 [Repository](https://github.com/OrsoEric/Unit-Zero)  
 [Project](https://github.com/users/OrsoEric/projects/2)  
-
+[Blog](https://fatherofmachines.blogspot.com/p/robot-unit-zero.html)
 
 ## Github Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OrsoEric&theme=dark&show_icons=true&count_private=true)
