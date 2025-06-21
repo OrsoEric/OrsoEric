@@ -1,5 +1,9 @@
 ### PROJECTS  
 
+## GenANI - ComfyUI StableDiffusion
+
+[![Comfy UI]([https://raw.githubusercontent.com/OrsoEric/Unit-Zero/main/Hardware%20-%20LEGO/2021-05-21%20Unit%20Zero%20Walks.JPG](https://github.com/OrsoEric/HOWTO-ComfyUI/raw/Master/workflows/img2img-flux-dev-outpaint.png))]([https://youtu.be/v_5exAytGI8](https://github.com/OrsoEric/HOWTO-ComfyUI))  
+
 ## Longan Nano Screen Class Demo  
 
 [![Longan Nano Demo](https://1.bp.blogspot.com/-7poaYNgmDzk/XyZSyDxEf3I/AAAAAAAADXE/iq9AuhRuW90n8PN_5UK07r1mowDp5c5VgCLcBGAsYHQ/d/2020-07-31b%2BLongan%2BNano%2BDemo.jpg)](https://fatherofmachines.blogspot.com/p/longan-nano-gd32vf103.html)
