@@ -6,6 +6,10 @@ Run GenANI assist locally on my GPU
 
 [![OrangeHat](https://github.com/OrsoEric/HOWTO-ComfyUI/raw/Master/workflows/img2img-flux-dev-outpaint.png)](https://github.com/OrsoEric/HOWTO-ComfyUI)
 
+## Robot - Mini Pupper
+
+
+
 ## Robot - OrangeHat  
 RaspberryPi Hat that integrates power delivery, servos, a display and a communication link  
 [![OrangeHat](https://user-images.githubusercontent.com/30684972/147383414-2592cd50-6037-41e5-a472-984f9cc8984d.jpg)](https://github.com/OrsoEric/OrangeHat)
